@@ -1,0 +1,9 @@
+Networking:
+
+    Raw socket: it is possible for an application to bypass the transport layer and use IPv4 or IPv6 directly
+    XTI
+
+    Sockets provide the interface from the upper three layers of the OSI model into the transport layer:    
+
+    The upper three layers handle all the details of the application. The lower four layers know little about the application, but handle all the communication details
+    The upper three layers form what is called a user process while the lower four layers are normally provided as part of the operating system (OS) kerne
